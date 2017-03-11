@@ -1,6 +1,6 @@
 # Intercom.io Screener - Events
 ## Demo
-[http://spoka.github.io/intercom/event/](http://spoka.github.io/intercom/event/)
+[http://yarunluon.github.io/intercom/event/](http://yarunluon.github.io/intercom/event/)
 
 ## Challenge
 Design and build an interface to display events, given information as structured below. Any solution is valid – e.g. a javascript calendar widget, a beautifully formatted web page, a command line tool.
@@ -55,4 +55,3 @@ $ npm install
 # http://localhost:8080
 $ node server.js
 ```
-
